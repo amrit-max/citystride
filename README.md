@@ -292,12 +292,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Important Links
 
 *   **Live Demo:** No live demo link provided.
-*   **AyushRaj-10 GitHub Profile:** [https://github.com/AyushRaj-10](https://github.com/AyushRaj-10)
-*   **Repository:** [https://github.com/AyushRaj-10/Hackspark](https://github.com/AyushRaj-10/Hackspark)
+*   **Amrit-max GitHub Profile:** [https://github.com/amrit-max](https://github.com/amrit-max)
+*   **Repository:** [https://github.com/amrit-max/citystride](https://github.com/amrit-max/citystride)
 
-## <footer> Footer
 
-**Hackspark** - [https://github.com/AyushRaj-10/Hackspark](https://github.com/AyushRaj-10/Hackspark) by AyushRaj-10. Fork, like, star, report issues, and contribute! ✨
 
 
 ---
